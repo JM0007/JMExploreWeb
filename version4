@@ -1,0 +1,74 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Accueil</title>
+<link type="text/css" rel="stylesheet" href=""/>
+</head>
+<body>
+
+<img src="logo.png" border="5">
+
+<header>
+
+<h1 class="titre"> JAVA Entreprise Edition </h1>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<h3 class="stitre"> [PARTIE II.4 TRAITEE]  
+La plateforme web qui forme, informe et met en exergue les dernières technologies en JEE 
+pour la création d'applications Web robustes et sûrs. L'image (le logo du site) a été trouvé sur google en tapant 'Java Etreprise Edition' et 
+est accessible sur le lien ci-dessous.</h3>
+
+ </header>
+
+<div> 
+
+<h3>Cliquer sur le lien pour acceder à la source </h3>
+ 
+   <a href="http://www.oracle.com/technetwork/java/javaee/overview/index.html"> <h2> Page web du logo </h2></a> 
+    <br/>
+  
+</p>
+
+<iframe title="lien de autre ressource" src="https://openclassrooms.com/courses/creez-votre-application-web-avec-java-ee" width="400" height="300">
+  <p>Your browser does not support iframes.</p>
+</iframe>
+
+</div>
+
+<header>
+			<h2> NOTEZ NOTRE PLATEFORME (Version 3: Partie II.3 Traitée) </h2>
+		</header>
+		<section>
+			<form method="post" action="">
+				
+				<fieldset>
+					<legend>Veuillez noter nos services en choisissant une note (OBLIGATOIRE ENTRE 0 et 5). Merci !</legend>
+					<label > Qualité de service : </label>
+					<select name="scolaire" id="scolaire">
+                                                <option value="0" selected>0 </option>
+						<option value="1">1 </option>
+						<option value="2">2</option>
+						<option value="3">3</option>
+						<option value="4">4</option>
+                                                <option value="5">5</option>
+					</select>  <br/><br/>
+					
+                                        <label > Contenus adapté à votre goût : </label>
+					<select name="scol" id="scol">
+                                                <option value="0" selected>0 </option>
+						<option value="1">1 </option>
+						<option value="2">2</option>
+						<option value="3">3</option>
+						<option value="4">4</option>
+                                                <option value="5">5</option>
+					</select>  <br/><br/>
+					
+					
+					
+				</fieldset>
+				
+				</form>
+		</section>
+
+</body>
+</html>
