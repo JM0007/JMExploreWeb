@@ -1,0 +1,32 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Accueil</title>
+<link type="text/css" rel="stylesheet" href=""/>
+</head>
+<body>
+
+<img src="logo.png">
+
+<header>
+
+<h1 class="titre"> JAVA Entreprise Edition </h1>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<h2 class="stitre"> La plateforme web qui forme, informe et met en exergue les dernières technologies en JEE 
+pour la création d'applications Web robustes et sûrs </h2>
+
+ </header>
+
+<div> 
+
+<h3>Cliquer sur le lien pour acceder à la source </h3>
+ 
+   <a href="http://www.oracle.com/technetwork/java/javaee/overview/index.html"> <h2> Page web du logo </h2></a> 
+    <br/>
+  
+</p>
+
+</div>
+</body>
+</html>
